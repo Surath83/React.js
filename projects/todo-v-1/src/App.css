@@ -1,0 +1,15 @@
+center{
+  margin:10% 5%
+}
+h1{
+  font-weight: bold;
+}
+input{
+  width: 100%;
+}
+.i1{
+  text-align: left;
+}
+.b1{
+  min-width: 90px;
+}
